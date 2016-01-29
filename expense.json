@@ -7,7 +7,7 @@
       "value": "Value of Transaction",
       "description": "Comments about transaction",
       "timestamp": {
-        "date": "Date",
+        "date": "Date"gjh,
         "month": "Month",
         "year": "Year",
         "time": "Time in 24 hour format"
